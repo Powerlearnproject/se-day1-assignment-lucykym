@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering systematically applies engineering principles, methods and tools to develop and maintain highquality software systems.It involves software product design,development,testing, deployment and maintenance.
-It enables the creation of software applications and systems that provide various aspects of modern life ie communication, commerce, entrtainmentt and healthcare.
+It enables the creation of software applications and systems that provide various aspects of modern life ie communication, commerce, entrtainmentt and healthcares.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1.The Software Crisis and the Birth of Software Engineering. In the 1960s, the increasing complexity of software systems led to a crisis. Projects were over budget, behind schedule, and often didn't meet expectations. 
