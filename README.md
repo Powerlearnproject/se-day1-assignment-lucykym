@@ -23,7 +23,7 @@ Maintenance: Providing ongoing support, updates, and enhancements to the softwar
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall method has a fixed timeline , the idea with the waterfall is to start and finish a project with a mapped out timeline while the agile method is alot more flexible and accounts for expeirments  with different directions.
-Waterfall method once the end goal has been established there is no client involvement but in agile method the client is involved in the project develpoment at every stage. waterfall method can be used in building a pedestrians bridge oncethe project has been staerted the resources cannt be changed. an agile method can be used in a mobile app development as the app can change a few things in it as the development proceeds. 
+Waterfall method once the end goal has been established there is no client involvement but in agile method the client is involved in the project develpoment at every stage. waterfall method can be used in building a pedestrians bridge oncethe project has been started the resources cannot be changed. an agile method can be used in a mobile app development as the app can change a few things in it as the development proceeds. 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 A software developer is the backbone of the team and the project responsible in creating and maintaing softwareb applications. the Software developer is responsible to write, test and debug the code and also incharge of other team members. 
