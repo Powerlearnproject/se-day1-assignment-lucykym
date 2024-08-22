@@ -16,14 +16,15 @@ Identify and describe at least three key milestones in the evolution of software
 List and briefly explain the phases of the Software Development Life Cycle.
 Requirements: Gathering and documenting user needs and system requirements.
 Design: Creating high-level and detailed designs of the software architecture and user interface
-mplementation: Writing code and building the software according to the design specifications
+Implementation: Writing code and building the software according to the design specifications
 Testing: Conducting various tests to ensure the software meets quality standards and functional requirements
 Deployment: Releasing the software to users or customers
 Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
+closure
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall method has a fixed timeline , the idea with the waterfall is to start and finish a project with a mapped out timeline while the agile method is alot more flexible and accounts for expeirments  with different directions.
-Waterfall method once the end goal has been established there is no client involvement but in agile method the client is involved in the project develpoment at every stage. waterfall method can be used in building a pedestrians bridge oncethe project has been started the resources cannot be changed. an agile method can be used in a mobile app development as the app can change a few things in it as the development proceeds. 
+Waterfall method once the end goal has been established there is no client involvement but in agile method the client is involved in the project develpoment at every stage. waterfall method can be used in building a puzzle. an agile method can be used in a mobile app development as the app can change a few things in it as the development proceeds. 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 A software developer is the backbone of the team and the project responsible in creating and maintaing softwareb applications. the Software developer is responsible to write, test and debug the code and also incharge of other team members. 
@@ -34,8 +35,6 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
  IDEs are software applications that provide comprehensive facilities to computer programmers for software development. They integrate multiple development tools into a single interface, which can significantly enhance productivity and streamline the coding process. example is visual studio
  VCS are essential tools that help manage changes to source code over time. They track revisions, support collaboration, and maintain a history of changes, making them crucial for both individual developers and teams.example is git, subversion
  
-
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 1. Keeping up with rapid technology changes and advancements. the strategy to overcome this is to continue learning and expirement new technologies and as weel be a team member to understand and give different approaches a chance.
 2. Poor software quality and maintenance Inadequate testing practices can lead to unreliable software and unsatisfied users.Including unit testing, integration testing, and regression testing, can help identify and fix issues early in development.
