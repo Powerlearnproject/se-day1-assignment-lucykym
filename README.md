@@ -33,7 +33,7 @@ A  project manager is  the one who oversees the  entire software develpment proc
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
  IDEs are software applications that provide comprehensive facilities to computer programmers for software development. They integrate multiple development tools into a single interface, which can significantly enhance productivity and streamline the coding process. example is visual studio
- VCS are essential tools that help manage changes to source code over time. They track revisions, support collaboration, and maintain a history of changes, making them crucial for both individual developers and teams.example is git, subversion
+VCS are essential tools that help manage changes to source code over time. They track revisions, support collaboration, and maintain a history of changes, making them crucial for both individual developers and teams.example is git, subversion
  
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 1. Keeping up with rapid technology changes and advancements. the strategy to overcome this is to continue learning and expirement new technologies and as weel be a team member to understand and give different approaches a chance.
