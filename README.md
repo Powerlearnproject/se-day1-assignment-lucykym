@@ -20,7 +20,7 @@ Implementation: Writing code and building the software according to the design s
 Testing: Conducting various tests to ensure the software meets quality standards and functional requirements
 Deployment: Releasing the software to users or customers
 Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
-closure
+closure ensure you close the project
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall method has a fixed timeline , the idea with the waterfall is to start and finish a project with a mapped out timeline while the agile method is alot more flexible and accounts for expeirments  with different directions.
