@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering systematically applies engineering principles, methods and tools to develop and maintain highquality software systems.It involves software product design,development,testing, deployment and maintenance.
-It enables the creation of software applications and systems that provide various aspects of modern life ie communication, commerce, entrtainment and healthcares.
+It enables the creation of software applications and systems that provide various aspects of modern life ie communication, commerce, entertainment and healthcares.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1.The Software Crisis and the Birth of Software Engineering. In the 1960s, the increasing complexity of software systems led to a crisis. Projects were over budget, behind schedule, and often didn't meet expectations. 
@@ -20,7 +20,7 @@ Implementation: Writing code and building the software according to the design s
 Testing: Conducting various tests to ensure the software meets quality standards and functional requirements
 Deployment: Releasing the software to users or customers
 Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
-closure ensure you close the project
+Closure ensure you close the project
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall method has a fixed timeline , the idea with the waterfall is to start and finish a project with a mapped out timeline while the agile method is alot more flexible and accounts for expeirments  with different directions.
@@ -54,5 +54,5 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-vague prompt : write somethings about doors.   This prompt is vague because it doesn't specify what kind of information is required in concern to doors.
+Vague prompt : write something about doors.This prompt is vague because it doesn't specify what kind of information is required in concern to doors.
 Improved prompt: write something about metallic doors around the mall; 
